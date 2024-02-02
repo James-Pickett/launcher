@@ -144,4 +144,6 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
+replace github.com/samber/slog-multi => github.com/james-pickett/slog-multi v0.0.0-20240121010149-da52eb7fdf39
+
 go 1.21
